@@ -75,11 +75,7 @@ Expect:
 ## Repository Structure  
 ```
 
-/cad            SolidWorks / Fusion files
-/code           Embedded scripts, tests, controllers
-/electronics    Wiring notes, components, schematics
-/prototypes     Printed parts and assembly photos
-/docs           Logs, reflections, troubleshooting notes
+/cad            SolidWorks files, sorted by year
 README.md       Documentation
 
 ```
