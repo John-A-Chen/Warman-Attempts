@@ -76,6 +76,8 @@ Expect:
 ```
 
 /cad            SolidWorks files, sorted by year
+/render         Solidworks Visualise files, sorted by year and configuration
+/drawing        Solidworks Drawing PDF, sorted by year
 README.md       Documentation
 
 ```
